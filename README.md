@@ -8,17 +8,11 @@ Week-14 Challenge (Model-View-Controller)
 
 - [Description](#description)
 
-- [Live-URL](#live-url)
-
-- [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
-
 - [Screenshots](#screenshots)
 
 - [Technologies-Used](#technologies-used)
 
 - [Installation](#installation)
-
-- [Credits](#credits)
 
 - [Features](#features)
 
@@ -26,13 +20,7 @@ Week-14 Challenge (Model-View-Controller)
 
 - [Suggested-Future-Development](#suggested-future-development)
 
-- [Contribution-Guidelines](#contribution-guidelines)
-
-- [Test-Instructions](#test-instructions)
-
 - [License](#license)
-
-- [Questions](#questions)
 
 ## Description
 
@@ -46,12 +34,10 @@ The project utilizes a robust architecture with MVC structure, Sequelize ORM for
 
 Developing this application presented several challenges, including mastering the Handlebars templating engine for effective data manipulation and overcoming routing and middleware syntax intricacies. As my first full-stack project, managing numerous files and understanding the complex interactions between various components initially felt overwhelming. However, perseverance and dedication led to a successful outcome, resulting in this fully functional web application.
 
-## Live URL
-
-
-
 ## Screenshots
+![MVC 1](<Image/Screenshot 2023-12-10 at 12.45.47 PM.png>) 
 
+![MVC 2](<Image/Screenshot 2023-12-10 at 12.47.34 PM.png>)
 
 ## Technologies Used
 
@@ -71,7 +57,7 @@ Node.js (v16.19.1), Express.js (v.14.18.2), JavaScript, MySQL, Sequelize (ORM), 
 ## Installation
 
 1. Clone the repo:
-   git clone https://github.com/rmessett15/MVC-Tech-Blog.git
+   git clone https://github.com/Donsidious/MVC-Tech-Blog
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
@@ -135,16 +121,14 @@ Users interact with the application exclusively through the frontend user interf
 
 ## Suggested Future Development
 
-- Dark Mode Toggle
-- Continued display and UI development
-- Ability to like and up-vote posts
-- Functionality allowing users to favorite specific content
+- Continued UI development
+- Addition of a search feature
+- Addition of a like feature
+- Addition of a trending feature
 - Addition of a friends feature
-- Continued user authentication -> only allowing author of the post access to the edit and delete feature
-- Including unit testing
+- Addition of a profile picture feature
 
 ## License
 
 NOTICE: This application is covered under the MIT License
-
 
