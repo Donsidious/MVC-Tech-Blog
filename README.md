@@ -35,9 +35,9 @@ The project utilizes a robust architecture with MVC structure, Sequelize ORM for
 Developing this application presented several challenges, including mastering the Handlebars templating engine for effective data manipulation and overcoming routing and middleware syntax intricacies. As my first full-stack project, managing numerous files and understanding the complex interactions between various components initially felt overwhelming. However, perseverance and dedication led to a successful outcome, resulting in this fully functional web application.
 
 ## Screenshots
-![MVC 1](<Image/Screenshot1.PNG>) 
+![MVC 1](<Image/Screenshot.PNG>) 
 
-![MVC 2](<Image/Screenshot.PNG>)
+![MVC 2](<Image/Screenshot1.PNG>)
 
 ## Technologies Used
 
